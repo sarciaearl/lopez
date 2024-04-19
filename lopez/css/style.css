@@ -1,0 +1,150 @@
+/*This is an external css*/
+
+body {
+	font-family: arial;
+	background-image: url(../images/galaxy.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: fixed;
+	padding: 20px, 20px, 20px, 20px;
+	border: 2px;
+	border-color: black;
+}
+
+h1 {
+	text-align: center;
+	font-weight: bolder;
+	font-size: 30px;
+	color: deeppink;
+	text-decoration: none;
+}
+
+
+
+.julie {
+	text-align: center;
+	color: hotpink;
+	font-family: arial;
+	
+}
+
+
+.julie a:hover {
+	background-color: floralwhite;
+	border: 2px;
+	border-color: solid purple;
+	border-radius: 8px;
+
+}
+
+
+a {
+	text-decoration: none;
+}
+
+}
+
+.header {
+	text-align: center;
+}
+
+.center {
+	size: 150px, 150px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	
+
+}
+
+
+
+.self {
+	padding: 3px;
+	background-color: floralwhite;
+	font-style: italic;
+
+}
+
+.selfintro {
+	text-align: justify;
+	text-indent: 50px;
+	color: powderblue;
+}
+
+.expertise {
+	padding: 3px;
+	background-color: floralwhite;
+	font-style: italic;
+}
+
+.bgit {
+	padding: 3px;
+	background-color: floralwhite;
+	font-style: italic;
+}
+
+.bgitinfo {
+	text-align: justify;
+	text-indent: 50px;
+	color: powderblue;
+}
+
+
+.app {
+	padding: 3px;
+	background-color: floralwhite;
+	font-style: italic;
+}
+
+.tableup {
+	background-color: floralwhite;
+}
+
+.level {
+	font-weight: bold;
+}
+
+
+hr {
+	color: purple;
+}
+header {
+	padding: 2px;
+}
+
+table {
+	
+	border-collapse: collapse;
+	width: 100%;
+	border-spacing: 30px;
+}
+
+thead{
+	background-color: floralwhite;
+}
+
+tbody{
+	color: powderblue;
+	outline-width: 1px;
+	outline-color: black;
+}
+
+.eb {
+	color: lightpink;
+
+}
+
+ul, ol, .bgitinfo {
+	color: powderblue;
+}
+
+h3, h4, ul, ol {
+	text-align: left;
+	font-family: Arial;
+
+}
+
+th, td {
+	padding: 8px;
+}
